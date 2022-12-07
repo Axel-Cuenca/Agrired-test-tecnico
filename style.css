@@ -14,7 +14,7 @@ html, body {
 
 .seccion-1{
     background-size: cover;
-    background-image: url(/assets/img/bg.png);
+    background-image: url(./assets/img/bg.png);
     background-repeat: no-repeat;
     margin-top: -3px;
 }
@@ -298,7 +298,7 @@ h3{
     }
     .seccion-1{
         background-size: inherit;
-        background-image: url(/assets/img/bg.png);
+        background-image: url(./assets/img/bg.png);
         background-repeat: no-repeat;
         margin-top: -10px;
     }
